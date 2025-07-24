@@ -31,7 +31,9 @@ func main() {
 
 ---
 
-<pre><code>D:\Wizards\Vietnam> open intro.tuan Hi, my name is Trinh Huu Tuan. I'm a Software Engineer & DevOps Enthusiast from Vietnam. I specialize in building scalable systems and have a passion about business stories through systems. ✨ </code></pre>
+<pre><code>D:\Wizards\Vietnam> open intro.tuan
+
+Hi, my name is Trinh Huu Tuan. I'm a Software Engineer & DevOps Enthusiast from Vietnam. I specialize in building scalable systems and have a passion about business stories through systems. ✨ </code></pre>
 
 
 
