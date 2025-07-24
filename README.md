@@ -1,4 +1,4 @@
-<h1 align="center">🧙‍♂️ Trinh Huu Tuan — Engineer @ Business</h1>
+<h1 align="center">🧙‍♂️ Trinh Huu Tuan — Engineer @ Stories</h1>
 
 <p align="center">
 
